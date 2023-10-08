@@ -1,0 +1,257 @@
+.div1 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash;
+    animation-duration: 3s;
+}
+
+@keyframes bash {
+    0% {
+        background-color: black;
+        left: 0;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 1150px;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 0;
+    }
+}
+
+.div2 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash2;
+    animation-duration: 3s;
+    animation-delay: 3s;
+    top: 150px;
+    left: 1150px;
+}
+
+@keyframes bash2 {
+    0% {
+        background-color: black;
+        left: 1150px;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 0;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 1150px;
+    }
+}
+
+.div3 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash;
+    animation-duration: 3s;
+    animation-delay: 6s;
+    top: 300px;
+}
+
+@keyframes bash {
+    0% {
+        background-color: black;
+        left: 0;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 1150px;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 0;
+    }
+}
+
+.div4 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash4;
+    animation-duration: 3s;
+    animation-delay: 9s;
+    top: 450px;
+    left: 1150px;
+}
+
+@keyframes bash4 {
+    0% {
+        background-color: black;
+        left: 1150px;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 0;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 1150px;
+    }
+}
+
+.div5 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash;
+    animation-duration: 3s;
+    animation-delay: 12s;
+    top: 600px;
+}
+
+@keyframes bash {
+    0% {
+        background-color: black;
+        left: 0;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 1150px;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 0;
+    }
+}
+
+.div6 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash2;
+    animation-duration: 3s;
+    animation-delay: 15s;
+    top: 750px;
+    left: 1150px;
+}
+
+@keyframes bash2 {
+    0% {
+        background-color: black;
+        left: 1150px;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 0;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 1150px;
+    }
+}
+
+.div7 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash;
+    animation-duration: 3s;
+    animation-delay: 15s;
+    top: 850px;
+}
+
+@keyframes bash {
+    0% {
+        background-color: black;
+        left: 0;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 1150px;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 0;
+    }
+}
+
+.div8 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    animation-name: bash2;
+    animation-duration: 3s;
+    animation-delay: 21s;
+    top: 900px;
+    left: 1150px;
+}
+
+@keyframes bash2 {
+    0% {
+        background-color: black;
+        left: 1150px;
+    }
+    25% {
+        background-color: aquamarine;
+    }
+    50% {
+        background-color: saddlebrown;
+        left: 0;
+    }
+    75% {
+        background-color: blue;
+    }
+    200% {
+        background-color: green;
+        left: 1150px;
+    }
+}
